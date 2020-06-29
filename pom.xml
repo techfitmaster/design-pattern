@@ -14,5 +14,7 @@
         <module>abstract-factory</module>
         <module>principle</module>
         <module>adapter</module>
+        <module>prototype</module>
+        <module>builder</module>
     </modules>
 </project>
