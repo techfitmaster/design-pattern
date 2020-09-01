@@ -10,15 +10,15 @@ public class BWMBuilder extends CarBuilder {
 
 
     public void buildEngine() {
-        car.chassis();
+        car.chassis("123");
     }
 
     public void buildGearbox() {
-        car.gearbox();
+        car.gearbox("123");
     }
 
     public void buildChassis() {
-        car.chassis();
+        car.chassis("123");
     }
 
 }
